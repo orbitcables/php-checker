@@ -1,0 +1,600 @@
+@media (max-width:1200px) {
+.header__navbar{
+    padding-top: 0px;
+}
+.banner{
+    margin-top: 70px;
+}
+.section3__contain1{
+    width: 85%;
+}
+.section3__contain2{
+    width: 89%;
+}
+.about__contain1 {
+    width: 88%;
+}
+.container__mainbox {
+    width: 27.6%;
+    height: 260px;
+}
+.carrerbanner {
+    padding-top: 80px;
+}
+.whyus__heading{
+    padding-top: 0px;
+}
+}
+
+@media (max-width: 992px) {
+.header__navbar {
+    padding-top: 0px;
+}
+.banner {
+    margin-top: 69px;
+}
+.banner__img{
+    height: 300px;
+    background-size: contain;
+}
+.section3__contain1, .section_content h1, .section5__content h1, .about__contain1, .weare__content h1, .services__details, .permanent__content1, .contract__content1, .bulk__content1, .process__contain, .whyus__details {
+    font-size: 2.5rem;
+    line-height: 2.5rem;
+}
+.section3__contain2, .section_content p, .section5 li, .about__contain2, .weare__content p, .permanent__content2, .contract__content2, .bulk__content2, .whyus__contain {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+.resCarousel-inner .item .tile {
+background: white;
+margin: 10px
+}
+.carrerbanner {
+    padding-top: 78px;
+}
+.container__mainbox {
+    width: 26.4%;
+    height: 280px;
+}
+.container__desc {
+    height: 75px;
+}
+.container__skills {
+    height: 65px;
+}
+.contactbanner {
+    padding-top: 7%;
+}
+.map {
+    width: 37%;
+}
+}
+
+
+
+@media (max-width: 768px) {
+.header__navbarli {
+    padding: 15px 50px;
+}
+.header__navbarlist {
+    padding-right: 10px;
+        font-size: 12px;
+}
+.banner {
+    margin-top: 55px;
+}
+.banner__img {
+    height: 235px;
+    background-size: contain;
+}
+.section3__contain1, .section4__content h1, .section5__content h1, .about__contain1, .weare__content h1, .services__details, .permanent__content1, .contract__content1, .bulk__content1, .process__contain, .whyus__details {
+    font-size: 2.1rem;
+    line-height: 2.3rem;
+}
+.section3__contain2, .section4__content p, .section5 li, .about__contain2, .weare__content p, .permanent__content2, .contract__content2, .bulk__content2, .whyus__contain {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+.section3__img {
+    padding: 0px 20px 20px 20px;
+}
+.class1, .class2, .class3, .class4, .class5, .class6, .class7, .class8, .class9, .class10, .class11, .class12, .class13, .class14{
+    width:90px;
+    height: 75px;
+}
+.resCarousel-inner {
+ width: 65%;
+}
+
+.leftRs {
+    margin-left: 45px;
+}
+.rightRs {
+    margin-right: 45px;
+}
+.resCarousel-inner .item .tile {
+    margin: 0px;
+}
+.footer__logo {
+    width: 60%;
+}
+.footer__quicklinks {
+    width: 19%;
+}
+.footer__menu {
+    font-size: 12px;
+}
+.footer__regaddress, .footer__shareaddress, .footer__contdetails {
+    font-size: 12px;
+}
+
+.container__header {
+    line-height: 1.5rem;
+    font-size: 17px;
+}
+.container__mainbox {
+    width: 24.4%;
+    height: 350px;
+}
+.container__desc {
+    height: 110px;
+}
+.container__skills {
+    height: 100px;
+}
+.container__applybutton {
+    padding: 8px 10px;
+}
+
+}
+
+@media screen and (max-width: 576px) and (min-width: 321px){
+
+/*.section3__contain1, .section_content h1, .section5__content h1, .about__contain1, .weare__content h1, .services__details, .permanent__content1, .contract__content1, .bulk__content1, .process__contain, .whyus__details {
+    font-size: 16px;
+    line-height: 2.5rem;
+}
+.section3__contain2, .section_content p, .section5 li, .about__contain2, .weare__content p, .permanent__content2, .contract__content2, .bulk__content2, .whyus__contain {
+    font-size: 12px;
+    line-height: 1.5rem;
+}*/
+input,
+textarea,
+button,
+select,
+a {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+body{
+  -webkit-user-select: none; 
+  -moz-user-select: none; 
+  -ms-user-select: none; 
+  user-select: none; 
+}
+.section3__contain1, .section4__content h1, .section5__content h1, .about__contain1, .weare__content h1, .services__details, .permanent__content1, .contract__content1, .bulk__content1, .process__contain, .whyus__details {
+    font-size: 1.5rem;
+    line-height: 1.7rem;
+}
+    .header{
+        padding: 10px 0px;
+        text-align: center;
+    }
+.Header__toggle{
+    display: block;
+}
+.header__logoH1 {
+    width: 250px;
+    height: 50px;
+    float: none;
+    display: inline-block;
+}
+
+.Header__menu{
+    float: left;
+}
+.header__navbarlist {
+    font-size: 16px;
+}
+.header__navbar {
+    float: none;
+}
+.fa{
+    color: #f37a75;
+}
+.header__navbarli {
+    display: none;
+    padding: 0px;
+}   
+.header__navbarli li{
+        text-align: center;
+    margin-top: 15px;
+    margin-right: 0px;
+    display: block;
+}
+.banner h1{
+    font-size: 2.5rem;
+}
+.banner__para {
+    font-size: 0.8rem;
+}   
+.banner__img {
+    height: 110px;
+}
+.section3__img{
+    width: 85%;
+    margin: 0 auto;
+    padding: 1rem 0rem;
+    display: block;
+    float: none;
+}
+.section3__contain{
+        display: block;
+    float: none;
+    width: 85%;
+    margin: 0 auto;
+    padding:0;
+    padding-bottom: 3%;
+}
+.section4__content{
+  width: 85%;
+    margin: 0 auto;
+    float: none;
+    padding: 0;
+    display: block;
+    padding-bottom: 3%;
+}
+.section4__image {
+    height: auto;
+    float: none;
+    margin: 0 auto;
+    width: 85%;
+    padding: 0;
+}
+.section4__content h1 {
+    margin: 1rem 0 0rem 0;
+}
+.section5 {
+    padding: 1rem 0rem;
+}
+.section5__image{
+        width: 85%;
+    margin: 0 auto;
+    float: none;
+    display: block;
+}
+.section5__content{
+        width: 85%;
+    margin: 0 auto;
+    float: none;
+    padding: 0;
+    display: block;
+}
+.section5 li {
+    padding: 1rem 0rem 0 1rem;
+    }
+    .section5__content h1 {
+    margin: 1rem 0 0rem 0;
+}
+.p8 {
+    margin-bottom: 5%;
+    padding-top: 10px;
+}
+.developmentheading{
+    text-align: center;
+        letter-spacing: 0.10rem;
+        font-size: 10px;
+}
+.resCarousel-inner {
+ width: 55%;
+}   
+.p8:hover{
+    display: block;
+}
+.item{
+    width: 27%;
+}
+.tile{
+    width: 50%;
+}
+.resCarousel {
+    width: 95%;
+    margin: 0 auto;
+}
+#leftarrow, #rightarrow {
+    display: none;
+    }
+
+.class1:hover  .leftRs{
+    display: inline-block;
+}
+.footer__menu {
+    font-size: 10px;
+}
+.footer__regaddress, .footer__shareaddress, .footer__contdetails {
+    font-size: 10px;
+}
+/*about responsive css*/
+.about__heading1 {
+    display: table;
+        font-weight: 400;
+    line-height: 2rem;
+    letter-spacing: 0.15rem;
+    color: #f37a75;
+    border-bottom: 1px solid #f37a75;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+       margin: 0 auto;
+       margin-bottom: 2%;
+}
+.about__heading, .weare__content h2, .permanent__heading, .contract__heading, .bulk__heading{
+    display: none;
+}
+.about{
+   padding-top: 100px;  
+   padding-bottom: 3%;
+}
+.about__img{
+    width: 85%;
+    margin: 0 auto;
+    padding: 0;
+    float: none;
+    display: block;
+}
+.about__description{
+        width: 85%;
+    padding: 0;
+    margin: 0 auto;
+    float: none;
+    display: block;
+}
+.about__contain1, .about__contain2 {
+    width: 100%;
+}
+.weare__content h2{
+    margin-left: 0;
+}
+.sections2_weare {
+    padding: 0rem 0rem;
+}
+.weare__image{
+    width: 85%;
+    height: auto;
+    padding: 1rem 0 1rem 0;
+    margin: 0 auto;
+    padding: 0;
+    float: none;
+    padding-bottom: 3%;
+}
+.weare__content{
+  width: 85%;
+    margin: 0 auto;
+    float: none;
+    padding: 0;
+    display: block;
+    padding-bottom: 3%;
+}
+/*services responsive css*/
+
+.permanent__img, .contract__img, .bulk__img{
+        width: 60%;
+    margin: 0 auto;
+    float: none;
+    padding: 0;
+    display: block;
+}
+.permanent__desc, .contract__desc, .bulk__desc{
+    display: block;
+    margin: 0 auto;
+    width: 85%;
+    float: none;
+}
+.permanent, .contract, .bulk{
+    padding-bottom: 3%;
+}
+.bulk{
+    padding-bottom: 5%;
+}
+.contact__main {
+    width: 100%;
+}
+/*process responsive css*/
+
+
+/*whyus responsive css*/
+
+.differnetmain, .problemmain{
+    float: none;
+    display: block;
+    margin:0 auto;
+    width: 85%;
+    margin-bottom: 0%;
+}
+.differnet, .usp, .problem, .solution{
+    height: unset;
+}
+.whyus__img{
+        display: block;
+    width: 85%;
+    margin: 0 auto;
+    padding: 0;
+    float: none;
+}
+/*career responsive css*/
+.carrerbanner {
+    padding-top: 70px;
+}
+.container__mainbox {
+    width: 85%;
+    height: 270px;
+    margin: 0 auto;
+    float: none;
+    padding: 0 15px;
+    display: block;
+    margin-bottom: 5%;
+}
+.container__desc {
+    height: 60px;
+}
+.container__skills {
+    height: 60px;
+}
+/*contact us responsive css*/
+.contactbanner{
+    padding-top: 70px;
+}
+.contact, .map{
+    width:85%;
+    margin:0 auto;
+    float:none;
+    padding: 0;
+    padding-bottom: 2%;
+}
+.section3__contain1, .section3__contain2, .problems li{
+    width: 95%;
+}
+
+.services_details, .process__contain, .whyus__details {
+    width: 85%
+} 
+.process__img {
+    width: 90%;
+    height: 250px;
+}
+.weare__content h1 {
+    margin: 1rem 0 1.5rem 0px;
+}
+.weare__content p {
+    margin: 0;
+    padding: 10px 30px;
+    padding: 0;
+}
+/*footer responsive css*/
+
+.footer__content {
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+
+.footer__leftDiv {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    display: block;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.footer__logo {
+    width: 20%;
+padding-left:0;
+}
+.footer__rightDiv {
+    width: 100%;
+    float: left;
+}
+
+.footer__quicklinks {
+    width: 20%;
+    padding-left: 3%;
+}
+.footer__register {
+    width: 31%;
+}
+
+.footer__share {
+    width: 40%;
+}
+.footer__contact {
+    width: 100%;
+    text-align: center;
+    margin-top: 2%;
+}
+.footer__registerheader, .footer__quicklinksheader, .footer__shareheader, .footer__contactheader, .footer__followheader {
+    font-size: 0.65rem;
+}
+
+#menuToggle
+{
+  display: block;
+  position: relative;
+  z-index: 1;
+  -webkit-user-select: none;
+  user-select: none;
+  float: left;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+#menuToggle input
+{
+  display: block;
+  width: 40px;
+  height: 32px;
+  position: absolute;
+  cursor: pointer;
+  opacity: 0; 
+  z-index: 2;
+  -webkit-touch-callout: none;
+}
+#menuToggle span
+{
+  display: block;
+  width: 33px;
+  height: 4px;
+  margin-bottom: 5px;
+  position: relative;
+  background: /*#32d6a9;*/ #565656;
+  border-radius: 3px;
+  z-index: 1;
+  transform-origin: 4px 0px;
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+
+#menuToggle span:first-child
+{
+  transform-origin: 0% 0%;
+}
+
+#menuToggle span:nth-last-child(2)
+{
+  transform-origin: 0% 100%;
+}
+#menuToggle input:checked ~ span
+{
+    opacity: 1;
+    transform: rotate(-45deg) translate(-1px, -1px);
+    background: #e30000;
+}
+#menuToggle input:checked ~ span:nth-last-child(3)
+{
+   opacity: 1;
+    transform: rotate(45deg) translate(1px, -1px);
+    background:#e30000;
+}
+#menuToggle input:checked ~ span:nth-last-child(2)
+{
+  opacity: 0;
+    transform: rotate(0deg) scale(0.2, 0.2);
+}
+#menu
+{
+
+  background: #ededed;
+  list-style-type: none;
+  -webkit-font-smoothing: antialiased;
+  transform-origin: 0% 0%;
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+}
+
+#menu li
+{
+  padding: 10px 0;
+  font-size: 22px;
+  display: block;
+}
+#menuToggle input:checked ~ ul
+{
+  transform: none;
+}
+}
